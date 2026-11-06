@@ -8,7 +8,11 @@
 
 ## Watch the 90-second introduction
 
-INTRO_VIDEO_HERE
+
+
+https://github.com/user-attachments/assets/04259e7c-cc80-429e-90ec-c9a7dc05dcca
+
+
 
 ## The problem
 
@@ -36,7 +40,11 @@ A **knowledge library** shares the firm's expertise across projects (methods and
 
 ## Demo (3 minutes)
 
-DEMO_VIDEO_HERE
+
+
+https://github.com/user-attachments/assets/5518c7e1-6200-4bdc-8e91-f6f0652fa696
+
+
 
 *Same project, four consultants, four screens: onboarding in a day, an impact alert for the 40-character rule, the council's recommendation, and one decision updating every screen. Scripted data.*
 
